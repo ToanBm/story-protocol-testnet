@@ -8,7 +8,7 @@
 - Request IP faucet here : [Faucet Link](https://faucet.story.foundation/)
 - Enter the below command to start deployment
 ```bash
-wget https://raw.githubusercontent.com/dxzenith/Story-Testnet/main/contract.sh && chmod +x contract.sh && ./contract.sh
+wget https://raw.githubusercontent.com/ToanBm/story-protocol-testnet/main/contract.sh && chmod +x contract.sh && ./contract.sh
 ```
 - In the middle, it will ask something like this, just press `Enter` button 4 times
 
