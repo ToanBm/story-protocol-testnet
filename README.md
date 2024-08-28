@@ -10,7 +10,7 @@
 ```bash
 wget https://raw.githubusercontent.com/ToanBm/story-protocol-testnet/main/contract.sh && chmod +x contract.sh && ./contract.sh
 ```
-- In the middle, it will ask something like this, just press `Enter` button 4 times
+- In Hardhat window, just press `Enter` button 4 times
 
-![Screenshot 2024-08-28 031910](https://github.com/user-attachments/assets/54f9da7e-d52d-4758-830d-8747cb8f4389)
+![Screenshot 2024-08-28 031910](https://github.com/ToanBm/story-protocol-testnet/blob/main/001.jpg)
 - You can check your deployed contract in this [explorer](https://testnet.storyscan.xyz/)
